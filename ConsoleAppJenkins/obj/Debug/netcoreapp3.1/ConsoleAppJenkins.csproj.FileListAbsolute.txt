@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.exe
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.deps.json
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.runtimeconfig.json
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.dll
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\netcoreapp3.1\ConsoleAppJenkins.pdb
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.dll
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.pdb
+C:\Users\ASUS\source\repos\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\netcoreapp3.1\ConsoleAppJenkins.genruntimeconfig.cache
